@@ -1,5 +1,6 @@
 public class Main{
     public static void main (String[] args){
+        // Identifiers
         System.out.println("This is java");
         int myNum = 22 ;
         final int myNum2 = 56 ;
